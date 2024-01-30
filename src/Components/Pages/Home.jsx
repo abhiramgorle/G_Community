@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../Navbar/Navbar'
 import LeftSide from '../LeftSidebar/LeftSide'
 import RightSide from '../RightSidebar/RightSide'
-import CardSection from '../Main/CardSection'
+// import CardSection from '../Main/CardSection'
 import Main from '../Main/Main'
 const Home = () => {
   return (
