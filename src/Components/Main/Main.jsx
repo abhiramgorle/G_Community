@@ -200,7 +200,7 @@ const Main = () => {
           <div className="flex items-center">
             <img className="h-10 mr-4" src={smile} alt="feeling"></img>
             <p className="font-roboto font-medium text-md text-gray-700 no-underline tracking-normal leading-none">
-              Feeling
+              New Event +
             </p>
           </div>
         </div>
